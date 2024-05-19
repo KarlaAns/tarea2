@@ -1,7 +1,7 @@
 import React from 'react';
 
-import AppFeature from '../components/categories/feature';
-import AppPricing from '../components/categories/pricing';
+import AppFeature from '../components/categories/feature.js';
+import AppPricing from '../components/categories/pricing.js';
 
 
 function AppCategories() {

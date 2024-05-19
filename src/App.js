@@ -3,12 +3,12 @@ import './App.css';
 import 'antd/dist/antd.css';
 import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
 
-import AppHeader from './components/common/header';
-import AppFooter from './components/common/footer';
-import AppHome from './views/home';
-import Information from './views/information';
-import AppCategories from './views/categories';
-import AppContact from './views/contact';
+import AppHeader from './components/common/header.js';
+import AppFooter from './components/common/footer.js';
+import AppHome from './views/home.js';
+import Information from './views/information.js';
+import AppCategories from './views/categories.js';
+import AppContact from './views/contact.js';
 /* import Features from './views/features';
 import HowItWorks from './views/how-it-works';
 import FAQ from './views/faq';

@@ -1,7 +1,7 @@
 import React from 'react';
 
-import AppContactUs from '../components/contactUs/contact';
-import AppPricing from '../components/categories/pricing';
+import AppContactUs from '../components/contactUs/contact.js';
+import AppPricing from '../components/categories/pricing.js';
 
 
 function AppContact() {
